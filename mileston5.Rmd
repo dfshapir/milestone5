@@ -1,0 +1,18 @@
+---
+title: "Milestone 5"
+author: "Daniel Shapiro"
+date: "10/18/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Milestone 5
+
+My project is as follows: I have met with and and am meeting Russian specialists on the United States who will impact policy and ideology in the upcoming decades through government work, academia, or other related fields. The goals of the project are to elucidate patterns in rising specialists’ thinking, to find ways in which the ideologies of younger specialists differ from conventional Russian state policy (and from the thinking of the general populace) and to determine what the results can tell us about future Russian policy towards the United States. The results of my research will provide greater insight into the potential viewpoints and ideologies of the next generation of U.S.-focused Russian policymakers and thinkers, thereby helping policymakers, businesspeople and academics in America to better formulate policy and ideas regarding future U.S.-Russian relations.
+
+My main research questions are: What sorts of approaches and beliefs do young, up-and-coming Russian specialists on the United States have regarding the United States and U.S.-Russian relations? How do these viewpoints compare to current and former government policy? How do these narratives fit into broader literature on Russian ideological and demographic patterns, especially regarding contemporary youth politics?
+
+The part of this project that I aim to work with in this class is text analysis of the interviews that I did this summer/am doing this semester. I want to be able to quantitatively identify trends in analysts' thinking and be able to quantitatively present experts' attitudes on various issues. This involves a) finishing transcribing interviews, b) converting the transcriptions into workable data, and c) handling data in R. While my interviews were semi-structured in that I often just conversed with my respondents, I did ask many of the same questions in every interview, giving me a solid set of constant variables that I can use for purposes of comparison. I am confident that this project will be successful if I can properly learn and master text analysis. I'm excited to learn and continue working on this project.
